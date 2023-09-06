@@ -1,0 +1,5 @@
+text	Nascimento	Data de nascimento
+text	Endereço	Endereço pessoal
+text	WhatsApp	+00(00) 99999-9999
+link	E-mail	email@gmail.com
+link	Linkedin	link-para-linkedin
