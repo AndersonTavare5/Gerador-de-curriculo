@@ -1,0 +1,3 @@
+text	Idiomas	Idiomas que domina (caso a linha ficar quebrada por ter muito
+text		texto, aconselho colocar assim)
+text	Software	Lista de Software que domina
